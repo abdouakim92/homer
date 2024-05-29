@@ -2,7 +2,7 @@
 
 title: "Polyconseil"
 subtitle: "Welcome to Polyconseil dashboard"
-logo: "https://prd-infra-homer-assets.s3.eu-west-3.amazonaws.com/Logo-Polyconseil.png"
+logo: "https://prd-infra-homer-assets.s3.eu-west-3.amazonaws.com/logo.png"
 footer: "Powered by Polyconseil"
 services:
   - name: "Applications"
