@@ -17,7 +17,7 @@ services:
         url: "https://www.github.com"
         target: "_blank"
       - name: "Pongo"
-        icon: "https://prd-infra-homer-assets.s3.eu-west-3.amazonaws.com/logo-pongo.png"
+        logo: "https://prd-infra-homer-assets.s3.eu-west-3.amazonaws.com/logo-pongo.png"
         url: "https://pongo.polyconseil.fr/home"
         target: "_blank"
   - name: "Projet"
