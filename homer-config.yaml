@@ -1,0 +1,26 @@
+---
+
+title: "Polyconseil"
+subtitle: "Welcome to Polyconseil dashboard"
+logo: "assets/images/logo.png"
+footer: "Powered by Polyconseil"
+services:
+  - name: "Applications"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Google"
+        icon: "fab fa-google"
+        url: "https://www.google.com"
+        target: "_blank"
+      - name: "gitlab"
+        icon: "fab fa-gitlab"
+        url: "https://www.github.com"
+        target: "_blank"
+  - name: "Projet"
+    icon: "fas fa-project-diagram"
+    items:
+      - name: "Alivia"
+        tag: "IA"
+        subtitle: "Solution IA Polyconseil"
+        icon: "fas fa-brain"
+        url: "https://www.alivia.app/"
